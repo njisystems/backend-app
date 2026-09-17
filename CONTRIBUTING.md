@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contributing to Backend App
 
 Thank you for your interest in contributing to Backend App.
@@ -27,4 +28,34 @@ Then clone your fork:
 
 ```bash
 git clone https://github.com/njisystems/backend-app.git
+=======
+# Backend App
+
+Backend App is an open-source backend application maintained by NJISYSTEMS.
+
+The project is currently under active development. Contributions, bug reports, feature suggestions, documentation improvements, and pull requests are welcome.
+
+## Technology
+
+The project currently uses:
+
+- Node.js
+- npm
+- Vitest
+- GitHub Actions
+- Git and GitHub
+
+Additional technologies may be introduced as the project develops.
+
+## Getting Started
+
+### 1. Fork the repository
+
+Click **Fork** on GitHub to create your own copy of the repository.
+
+### 2. Clone your fork
+
+```bash
+git clone https://github.com/YOUR-GITHUB-USERNAME/backend-app.git
+>>>>>>> origin/main
 cd backend-app
